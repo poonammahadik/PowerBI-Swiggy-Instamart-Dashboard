@@ -1,5 +1,4 @@
 
-![Swiggy Instamart Dashboard](dashboard.png)
 
 # Swiggy Instamart Sales Analysis Dashboard
 
