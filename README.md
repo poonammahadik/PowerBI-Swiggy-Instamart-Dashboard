@@ -1,3 +1,6 @@
+
+![Swiggy Instamart Dashboard](dashboard.png)
+
 # Swiggy Instamart Sales Analysis Dashboard
 
 An interactive Power BI dashboard built to analyze the sales 
